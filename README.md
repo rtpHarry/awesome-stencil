@@ -14,6 +14,8 @@ General
 
 ### Components
 
+Please feel free to add any component to this list by raising a PR.
+
 * [Stencil Payment](https://github.com/Fdom92/stencil-payment#): A Web Component which allows any web app to use the Payment Request API
 * [Web Share](https://github.com/jgw96/web-share): WC that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
 * [ST Image](https://github.com/jgw96/st-img): WC to Lazy Load Images as user scrolls them into the view port.
@@ -28,8 +30,7 @@ General
 Tutorials
 ======
 
-* [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) * Using Stencil Component with AngularJS v1.
-Please feel free to add any component to this list by raising a PR.
+* [Stencil with AngularJS(v1)](https://medium.com/@vivainio/using-stenciljs-components-in-angular-1-application-2f09287c151) - Using Stencil Component with AngularJS v1.
 * [Faster Web Apps Using Stencil](http://warebo.com/faster-web-apps-using-stencil-mnsjL-WYzKQ) - An article with a small video explaining how you can develop faster web apps using StencilJS.
 - [How I built Smile to Unlock](https://codecraft.tv/blog/2017/10/10/smile-to-unlock-webcomponent-stenciljs/)- How Asim built SmileToUnlock using StencilJS components.
 
